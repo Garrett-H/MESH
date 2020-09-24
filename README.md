@@ -1,5 +1,5 @@
 # Memory Efficient Shell (MESH)
-MESH is the first assignment for Dr. Xan's CSCI 485 class.
+A basic command line Unix shell written as an attempt to maximize memory efficiency.
 
 ## Design Overview
 ### Structure
